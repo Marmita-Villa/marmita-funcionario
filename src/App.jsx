@@ -1,1 +1,1 @@
-<replace_with_code>
+// App.jsx será preenchido com o conteúdo funcional real do sistema.
